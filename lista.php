@@ -1,5 +1,5 @@
 <?php
-
+// lista e exige arquivo enviados
 $pasta = "arquivos/";
 $dir = dir($pasta);
 
